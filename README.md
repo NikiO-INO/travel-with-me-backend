@@ -38,6 +38,13 @@ Here are some example usage scenarios:
 - As a host, you can create a profile and list your place as available for travellers.
 - You can accept or reject requests from travellers to stay with you.
 
+## Technology Stack
+
+- NestJS (Fastify)
+- Prisma as ORM
+- PostgreSQL
+- Dockerfile & Docker-compose
+
 ## Feedback
 
 If you encounter any issues or have suggestions for improvements, please open an issue in the GitHub repository or submit a pull request.
